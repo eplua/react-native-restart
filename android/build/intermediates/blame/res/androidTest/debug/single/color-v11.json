@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/eplua/DISC-C/gitrepository/react-native/react-native-restart/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/eplua/.android/build-cache/3441ef32f3097fac1db04b44cf3852e27b9df5c9/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/eplua/DISC-C/gitrepository/react-native/react-native-restart/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/eplua/.android/build-cache/3441ef32f3097fac1db04b44cf3852e27b9df5c9/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
